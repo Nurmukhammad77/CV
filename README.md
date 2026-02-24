@@ -1,69 +1,50 @@
-## Your Name
+## Nematov Nurmuhammad
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Java developer and a student at Inha University, passionate about building practical software projects. I have created a Reservation System and other small applications to improve my coding skills. I am excited about exploring new technologies and developing solutions that make everyday tasks easier.
+
+---
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                     | Tech/Tools                |
+| ---------------------------- | ------------------------------- | ------------------------ |
+| **Reservation System**       | Console-based booking system    | Java                     |
+| **Hotel Booking Prototype**  | Clickable mobile app prototype  | Figma, UX/UI Design      |
+| **Mini Portfolio Website**   | Personal portfolio website      | HTML, CSS, JS            |
+| **Simple Calculator**        | Command-line calculator         | C++                      |
+| **API Microservice**         | Sample backend service          | Golang                   |
+
+---
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance / Personal Projects** (2024 - Present)  
+_Software Engineer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Built Java-based Reservation System and other small projects to practice OOP and problem solving.  
+- Designed interactive prototypes for mobile applications in Figma.  
+- Developed basic websites and backend services using C++, Java, and Golang.  
+- Created documentation, presentations (PowerPoint), and spreadsheets (Excel, Word) to support projects.  
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+---
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+- **Programming Languages:** Java, C++, Golang  
+- **Web & UI/UX:** Figma, HTML, CSS, JavaScript  
+- **Software Engineering:** OOP, TDD, Agile principles, MVC  
+- **Tools & Productivity:** Word, Excel, PowerPoint, Git/GitHub  
+- **Other Skills:** Problem-solving, project prototyping, documentation  
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+---
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Inha University (2024 - 2028 )
+- Student in IT / Software Engineering track  
+- Focus on software development, programming languages, and project-based learning  
 
-#### Your University / College (start_date to end_date)
+#### Makers Academy (optional / future)
+- Agile & TDD methodology, Ruby, Rails, JavaScript, RSpec, Jasmine  
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+---
