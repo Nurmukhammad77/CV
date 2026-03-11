@@ -46,4 +46,7 @@ Created project documentation and presentations using Word, Excel, and PowerPoin
 #### Makers Academy (optional / future)
 - Agile & TDD methodology, Ruby, Rails, JavaScript, RSpec, Jasmine  
 
+### Project Links
+https://github.com/Nurmukhammad77/Hospital-queue-system- 
+
 ---
