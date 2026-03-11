@@ -10,7 +10,7 @@ I am a Java developer and a student at Inha University, passionate about buildin
 | **Reservation System**      | Console-based booking system for managing reservations   | Java                  |
 | **Hotel Booking Prototype** | Clickable mobile application prototype for hotel booking | Figma, UX/UI Design   |
 | **Mini Portfolio Website**  | Personal website to showcase projects and skills         | HTML, CSS, JavaScript |
-| **Simple Calculator**       | Command-line calculator application                      | C++                   |
+| **Simple Systems**          | Command-line calculator, Hospital management system      | C++                   |
 | **API Microservice**        | Sample backend microservice                              | Golang                |
 
 ---
