@@ -5,14 +5,13 @@ I am a Java developer and a student at Inha University, passionate about buildin
 ---
 
 ## Projects
-
-| Name                         | Description                     | Tech/Tools                |
-| ---------------------------- | ------------------------------- | ------------------------ |
-| **Reservation System**       | Console-based booking system    | Java                     |
-| **Hotel Booking Prototype**  | Clickable mobile app prototype  | Figma, UX/UI Design      |
-| **Mini Portfolio Website**   | Personal portfolio website      | HTML, CSS, JS            |
-| **Simple Calculator**        | Command-line calculator         | C++                      |
-| **API Microservice**         | Sample backend service          | Golang                   |
+| Name                        | Description                                              | Tech/Tools            |
+| --------------------------- | -------------------------------------------------------- | --------------------- |
+| **Reservation System**      | Console-based booking system for managing reservations   | Java                  |
+| **Hotel Booking Prototype** | Clickable mobile application prototype for hotel booking | Figma, UX/UI Design   |
+| **Mini Portfolio Website**  | Personal website to showcase projects and skills         | HTML, CSS, JavaScript |
+| **Simple Calculator**       | Command-line calculator application                      | C++                   |
+| **API Microservice**        | Sample backend microservice                              | Golang                |
 
 ---
 
@@ -21,10 +20,10 @@ I am a Java developer and a student at Inha University, passionate about buildin
 **Freelance / Personal Projects** (2024 - Present)  
 _Software Engineer_
 
-- Built Java-based Reservation System and other small projects to practice OOP and problem solving.  
-- Designed interactive prototypes for mobile applications in Figma.  
-- Developed basic websites and backend services using C++, Java, and Golang.  
-- Created documentation, presentations (PowerPoint), and spreadsheets (Excel, Word) to support projects.  
+Built a Java-based Reservation System and other small projects to practice OOP and problem-solving.
+Designed interactive mobile application prototypes in Figma.
+Developed basic websites and backend services using Java, C++, and Golang.
+Created project documentation and presentations using Word, Excel, and PowerPoint.
 
 ---
 
