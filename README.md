@@ -48,6 +48,6 @@ Created project documentation and presentations using Word, Excel, and PowerPoin
 
 ### Project Links
 1.https://github.com/Nurmukhammad77/Hospital-queue-system-
-2.git clone https://github.com/Nurmukhammad77/Reservation-System.git
+2.git clone git clone https://github.com/Nurmukhammad77/Reservation-System.git
 
 ---
