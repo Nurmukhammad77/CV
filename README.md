@@ -47,7 +47,7 @@ Created project documentation and presentations using Word, Excel, and PowerPoin
 - Agile & TDD methodology, Ruby, Rails, JavaScript, RSpec, Jasmine  
 
 ### Project Links
-https://github.com/Nurmukhammad77/Hospital-queue-system-
-https://github.com/Nurmukhammad77/Reservation-System.
+1.https://github.com/Nurmukhammad77/Hospital-queue-system-
+2.git clone https://github.com/Nurmukhammad77/Reservation-System.git
 
 ---
