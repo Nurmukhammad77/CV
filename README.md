@@ -25,6 +25,13 @@ Designed interactive mobile application prototypes in Figma.
 Developed basic websites and backend services using Java, C++, and Golang.
 Created project documentation and presentations using Word, Excel, and PowerPoint.
 
+Logistics Recruiter (HR)
+Logistics Company — 2025 via (Facebook)
+Conducted interviews with truck drivers and logistics staff.
+Verified driving licenses, experience, and documents.
+Communicated with candidates and explained job requirements and responsibilities.
+Assisted in candidate selection and onboarding process.
+
 ---
 
 ## Skills
